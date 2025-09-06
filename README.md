@@ -1,7 +1,7 @@
 ![ezgif com-optimize](https://github.com/user-attachments/assets/c9a3e15f-c8fc-4ffc-9713-59c7b692b721)
 
 GAMELAND
-A modern portfolio website with 3d animations, stylish preloader
+A modern portfolio website with 3d animations, stylish preloader and music toggle
 
 ## Features
 - 📱 Fully responsive design
